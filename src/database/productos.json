@@ -1,0 +1,28 @@
+[
+	{
+		"id": 2,
+		"category": "Alimentos",
+		"title": "Salame",
+		"description": "Delicioso salamin",
+		"price": 3200,
+		"thumbnail": [
+			"https://st2.depositphotos.com/1002351/6844/i/600/depositphotos_68442441-stock-photo-smoked-sausage-salami.jpg"
+		],
+		"code": "1234",
+		"stock": 9,
+		"available": true
+	},
+	{
+		"id": 3,
+		"category": "bebidas",
+		"title": "Coca Cola",
+		"description": "Deliciosa bebida Coca Cola",
+		"price": 1500,
+		"thumbnail": [
+			"https://m.media-amazon.com/images/I/71b-tzIyUyL._SL1500_.jpg"
+		],
+		"code": "12345",
+		"stock": 33,
+		"available": true
+	}
+]
